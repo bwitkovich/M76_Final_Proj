@@ -21,7 +21,6 @@ print(r)
 plot_web_stability_multi(10, 40, 2, 0.1, 0.4, 0.02, 1)
 
 # Regressions for the effects of predation, closeness centrality, and degree centrality
-# For small food webs
 
 log_reg_predation(10, 20, 1, 0.1, 0.2, 0.01, 100)
 log_reg_predation(10, 20, 1, 0.3, 0.4, 0.01, 100)
